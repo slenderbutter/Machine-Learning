@@ -1,0 +1,12 @@
+openai
+pandas
+numpy==1.23.5
+scikit-learn==1.2.2
+langchain==0.0.148
+boto3
+matplotlib
+plotly
+scipy
+seaborn
+
+
